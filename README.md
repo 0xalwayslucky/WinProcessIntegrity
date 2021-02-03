@@ -13,4 +13,4 @@ In order to be able to display the integrity level of a process, the process acc
 - cmd.exe (PID 1337) runs with integrity level MEDIUM
 
 `wpi.exe 1337`
-... - fails because it can not access the cmd.exe
+...fails because it can not access the cmd.exe
