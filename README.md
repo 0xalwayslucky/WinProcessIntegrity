@@ -2,4 +2,4 @@
 - Smol program to determine the mandatory integrity level of a running process from command line.
 - (Tested on Windows 10 x64)
 
-Usage: wpi.exe <Process-Id>
+Usage: wpi.exe \<Process-Id\>
